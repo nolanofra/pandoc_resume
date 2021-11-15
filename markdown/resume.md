@@ -1,5 +1,7 @@
-Johnny Coder
+Francesco Nolano
 ============
+
+\externalfigure[peppino.jpg][width=3cm]
 
 ----
 
@@ -12,17 +14,15 @@ Johnny Coder
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2001-2007 (expected)
+:   **Computer Engineering**; Università degli studi di Catania
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Grape - a Graph Evaluator*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2008-2009
+:   **Master Free and Open Source Software Tecnology**; University of
+    Bologna, Alma Mater Studiorum
 
-    *Minor: Awesomeology*
 
 Experience
 ----------
