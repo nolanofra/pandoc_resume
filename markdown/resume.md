@@ -5,19 +5,16 @@ Francesco Nolano
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  I'm passionate about technology, innovation and software engineering. My main experience is on back-end systems, in particular for e-commerce industries. \
+>  I'm focused on software architecture, distributed systems and good software development practices, trying to contribute in making the team where I work a great, innovative and motivating environment.
 
 ----
 
 Education
 ---------
 
-2001-2007 (expected)
-:   **Computer Engineering**; Università degli studi di Catania
-
-    *Thesis title: Grape - a Graph Evaluator*
+2001-2007
+:   **Computer Engineering** Università degli studi di Catania. Thesis title: *Grape - a Graph Evaluator*
 
 2008-2009
 :   **Master Free and Open Source Software Tecnology**; University of
@@ -27,74 +24,80 @@ Education
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2015 - now
+: **Principal Developer**, *YOOX Net-a-Porter Group*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+My role as a Principal Developer is focused on the OMS (Order Management System) area, actively contributing in designing and building a new OMS Platform for YNAP.
+My job mostly consists in examining both functional and non-fucntional requirements and translating them into system guidelines for the OMS teams.
+I'm responsible for technical decisions and architectural design for OMS, working closely to OMS teams (\sim 40 people) making sure they get the support they need.
 
-* First item
+Some of my day-by-day activities:
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Work closely to Business Analysts / Product Owners to gather functional requirements
+* Help developers in finding the best technical approach for solutions
+* Facilitating technical meetings, especially between cross-domain teams
+* Making sure solutions are valid, well-designed and scalable, working closely to Quality Assurance / Performance engineers
+* Parecipating to Product / Business meetings to help defining the road map and vision around it
+* I'm part of the Enterprise Architectural Design Council, contributing with Architets in defining the strategic solutions, according to the company vision
+* Ensuring technical guidelines are applied by the development teams, supporting them also in resolving daily issues with hands-on activities
 
-**That Other Job You Had**
+**Main technologies**:
 
-Also with a short description.
+* Functional programming (mainly using Scala and the Cats ecosystem)
 
-Technical Experience
---------------------
+* RabbitMQ and IBM MQ as message brokers
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+* Teamcity and Jenkins as CI tool, Octopus Deploy and IBM UrbanCode as deployment tool
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+* Different test automation framework - *Cucumber* for BDD, *Selenium* for UI testing, *scala testcontainer* for functional / integration tests, JUnit for unit testing
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+* Java and C# as Object Oriented Languages
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+* AWS as Cloud Computing Platform, Terraform as *Infrastracture as Code* tool
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+  
+----
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+2014-2015
+: **Apex-net**, Cesena (IT), Senior Web Application Developer
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+Implementing a new web portal for the Bocconi Univeristy of Milan to handle the students admissions requests and exams. Built using Asp.NET MVC framework.
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+2011 - 2014
+: **KION - Cineca**, Bologna (IT), Software Developer
+
+Implementing new features for U-Gov, a platform for the University Governance. Written in Java, using J2EE framework
+
+---
+
+2009-2011
+: **Apex-net**, Cesena (IT), Software Developer
+
+Android mobile developer
+
+---
+
+
+Other information
+----------------------------------------
+
+* Languages:
+
+     * Italian (native speaker)
+     * English
+
+* Sports: running, tennis, trekking
+
+* Hobbies: photography, cinema, art, music
+
+----
+
+> <nolanofra@gmail.com> • +39 333 3990432 • 38 years old\
+> Via Casarini 32/4 - Bologna, IT
+
+
+* [https://github.com/nolanofra](https://github.com/nolanofra)
+* [https://www.linkedin.com/in/francesco-nolano](https://www.linkedin.com/in/francesco-nolano)
+* [https://twitter.com/nolanofra](https://twitter.com/nolanofra)
