@@ -1,24 +1,17 @@
 Francesco Nolano
 ============
 
-\externalfigure[peppino.jpg][width=3cm]
+\externalfigure[fra_cv.png][width=3cm, location=low]  
 
-----
+> <nolanofra@gmail.com> • +39 333 3990432 • 38 years old\
+> Via Casarini 32/4 - Bologna
+                                        
+---
 
->  I'm passionate about technology, innovation and software engineering. My main experience is on back-end systems, in particular for e-commerce industries. \
->  I'm focused on software architecture, distributed systems and good software development practices, trying to contribute in making the team where I work a great, innovative and motivating environment.
+>  I'm passionate about technology, innovation and software engineering. My main experience is on back-end systems, in particular in the e-commerce industry. \
+>  I'm focused on software architecture, distributed systems and solid software development practices. I try to contribute in making the team where I work a great, innovative and motivating environment.
 
-----
-
-Education
----------
-
-2001-2007
-:   **Computer Engineering** Università degli studi di Catania. Thesis title: *Grape - a Graph Evaluator*
-
-2008-2009
-:   **Master Free and Open Source Software Tecnology**; University of
-    Bologna, Alma Mater Studiorum
+---
 
 
 Experience
@@ -37,9 +30,10 @@ Some of my day-by-day activities:
 * Help developers in finding the best technical approach for solutions
 * Facilitating technical meetings, especially between cross-domain teams
 * Making sure solutions are valid, well-designed and scalable, working closely to Quality Assurance / Performance engineers
-* Parecipating to Product / Business meetings to help defining the road map and vision around it
-* I'm part of the Enterprise Architectural Design Council, contributing with Architets in defining the strategic solutions, according to the company vision
-* Ensuring technical guidelines are applied by the development teams, supporting them also in resolving daily issues with hands-on activities
+* Partecipating to Product / Business meetings to help defining the road map and vision around it
+* I'm part of the Enterprise Architectural Design Council, contributing with Architects in defining the strategic solutions, according to the company vision
+* Ensuring technical guidelines are applied by the development teams, supporting them also in resolving daily issues with hands-on activities and continuous feedback
+* Helping with recruitment of new talents
 
 **Main technologies**:
 
@@ -79,6 +73,16 @@ Android mobile developer
 
 ---
 
+Education
+---------
+
+2001-2007
+:   **Computer Engineering** Università degli studi di Catania. Thesis title: *Grape - a Graph Evaluator*
+
+2008-2009
+:   **Master Free and Open Source Software Tecnology**; University of
+    Bologna, Alma Mater Studiorum
+
 
 Other information
 ----------------------------------------
@@ -93,10 +97,6 @@ Other information
 * Hobbies: photography, cinema, art, music
 
 ----
-
-> <nolanofra@gmail.com> • +39 333 3990432 • 38 years old\
-> Via Casarini 32/4 - Bologna, IT
-
 
 * [https://github.com/nolanofra](https://github.com/nolanofra)
 * [https://www.linkedin.com/in/francesco-nolano](https://www.linkedin.com/in/francesco-nolano)
